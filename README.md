@@ -15,10 +15,11 @@
 [결과] Public Top 18% ➡️ Private Top 15% (124위 / 800+팀) 🏆
 
 1) public
-<img width="1369" height="74" alt="image" src="https://github.com/user-attachments/assets/e0fb5525-ef59-4f72-a29b-a8f3f6a5d103" />
+<img width="1353" height="69" alt="image" src="https://github.com/user-attachments/assets/46dbc0c6-56f2-40f0-ac52-298dd130c6ee" />
 
 2) private
-<img width="1355" height="71" alt="image" src="https://github.com/user-attachments/assets/79909532-aa01-4e25-92b7-fcf863db8ac9" />
+<img width="1342" height="72" alt="image" src="https://github.com/user-attachments/assets/313296eb-1dce-4966-af93-4adf4cb1f442" />
+
 
 
 # 1. Project Overview
