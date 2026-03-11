@@ -50,14 +50,14 @@ Robust 앙상블: 단일 모델의 한계를 극복하기 위해 CatBoost, XGBoo
 
 | Step | Model & Strategy | Validation (SMAPE) |
 | :--- | :--- | :---: |
-| Base | CatBoost + Basic Features | 0.54885 |
+| Base | CatBoost , LSTM Ensemble | 0.54885 |
 | Final | Weighted Ensemble (CatBoost, XGB, LGBM) | 0.52770 |
 
 # 4. Repository Structure
 
 ```text
 ├── EDA.ipynb               # 데이터 탐색, 시각화 및 전처리 전략 수립 (Individual)
-├── lg_aimers,0.54885.ipynb # CatBoost + Optuna 기반 단일 모델 최적화 (Individual)
+├── lg_aimers,0.54885.ipynb # CatBoost , LSTM Ensemble (단순 가중치로 앙상블) (Individual)
 ├── final_code,0.5277.ipynb # 최종 앙상블 및 SMAPE 최적화 추론 코드 (Team/Main)
 └── README.md
 ```
